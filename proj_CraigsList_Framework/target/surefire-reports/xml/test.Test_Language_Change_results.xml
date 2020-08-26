@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.660">
+           time="0.424">
   <properties />
   
   
-            <testcase name="Language_is_Active" time="0.660" classname="test.Test_Language_Change" />
+            <testcase name="Language_is_Active" time="0.424" classname="test.Test_Language_Change" />
       
 </testsuite>

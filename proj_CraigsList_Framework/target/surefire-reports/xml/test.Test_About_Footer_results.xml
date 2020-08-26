@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.710">
+           time="0.729">
   <properties />
   
   
-            <testcase name="About_Footer_is_Active" time="0.710" classname="test.Test_About_Footer" />
+            <testcase name="About_Footer_is_Active" time="0.729" classname="test.Test_About_Footer" />
       
 </testsuite>

@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.081">
+           time="0.088">
   <properties />
   
   
-            <testcase name="Gallery_Menu_is_Active" time="0.081" classname="test.Test_Gallery_Menu" />
+            <testcase name="Gallery_Menu_is_Active" time="0.088" classname="test.Test_Gallery_Menu" />
       
 </testsuite>

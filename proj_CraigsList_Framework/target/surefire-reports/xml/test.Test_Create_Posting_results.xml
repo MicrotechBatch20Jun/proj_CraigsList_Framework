@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="1.115">
+           time="1.117">
   <properties />
   
   
-            <testcase name="Create_a_Posting_is_Active" time="1.115" classname="test.Test_Create_Posting" />
+            <testcase name="Create_a_Posting_is_Active" time="1.117" classname="test.Test_Create_Posting" />
       
 </testsuite>

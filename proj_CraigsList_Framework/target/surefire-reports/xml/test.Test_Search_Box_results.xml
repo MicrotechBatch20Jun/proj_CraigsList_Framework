@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.045">
+           time="0.041">
   <properties />
   
   
-            <testcase name="Search_Box_is_Active" time="0.045" classname="test.Test_Search_Box" />
+            <testcase name="Search_Box_is_Active" time="0.041" classname="test.Test_Search_Box" />
       
 </testsuite>
