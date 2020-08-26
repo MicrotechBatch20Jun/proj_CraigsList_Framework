@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.660">
+  <properties />
+  
+  
+            <testcase name="Language_is_Active" time="0.660" classname="test.Test_Language_Change" />
+      
+</testsuite>

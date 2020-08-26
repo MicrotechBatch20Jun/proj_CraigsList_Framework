@@ -1,0 +1,48 @@
+26/08/2020 02:10:31 devpinoyLogger Furniture clicked
+26/08/2020 02:10:31 devpinoyLogger NEWEST_MENU_IS_ACTIVETest Started
+26/08/2020 02:10:31 devpinoyLogger Verified Newest Menu is Active
+26/08/2020 02:10:33 devpinoyLogger successfully logout
+26/08/2020 02:10:35 devpinoyLogger SAFETY_FOOTER_IS_ACTIVETest Started
+26/08/2020 02:10:36 devpinoyLogger Verified Safety Footer is Active
+26/08/2020 02:10:37 devpinoyLogger successfully logout
+26/08/2020 02:10:39 devpinoyLogger CREATE_A_POSTING_IS_ACTIVETest Started
+26/08/2020 02:10:40 devpinoyLogger Verified Create a Posting is Active
+26/08/2020 02:10:41 devpinoyLogger successfully logout
+26/08/2020 02:10:44 devpinoyLogger SEARCHED_ITEM_ELEMENTS_IS_ACTIVETest Started
+26/08/2020 02:10:44 devpinoyLogger Verified Favorite Icon is Active
+26/08/2020 02:10:44 devpinoyLogger Verified Hide Icon is Active
+26/08/2020 02:10:44 devpinoyLogger Verified Flag Icon is Active
+26/08/2020 02:10:45 devpinoyLogger Verified Map is Active
+26/08/2020 02:10:46 devpinoyLogger successfully logout
+26/08/2020 02:10:48 devpinoyLogger Furniture clicked
+26/08/2020 02:10:48 devpinoyLogger GALLERY_MENU_IS_ACTIVETest Started
+26/08/2020 02:10:48 devpinoyLogger Verified Gallery Menu is Active
+26/08/2020 02:10:49 devpinoyLogger successfully logout
+26/08/2020 02:10:52 devpinoyLogger SEARCH_BOX_IS_ACTIVETest Started
+26/08/2020 02:10:52 devpinoyLogger Verified Search Box is Active
+26/08/2020 02:10:53 devpinoyLogger successfully logout
+26/08/2020 02:10:55 devpinoyLogger EVENT_CALENDER_IS_ACTIVETest Started
+26/08/2020 02:10:56 devpinoyLogger Verified Event Calender is Active
+26/08/2020 02:10:57 devpinoyLogger successfully logout
+26/08/2020 02:10:59 devpinoyLogger LANGUAGE_IS_ACTIVETest Started
+26/08/2020 02:10:59 devpinoyLogger Language Espanol Selected
+26/08/2020 02:11:00 devpinoyLogger Language English Selected
+26/08/2020 02:11:00 devpinoyLogger Verified Language Change
+26/08/2020 02:11:01 devpinoyLogger successfully logout
+26/08/2020 02:11:03 devpinoyLogger PRIVACY_FOOTER_IS_ACTIVETest Started
+26/08/2020 02:11:04 devpinoyLogger Verified Privacy Footer is Active
+26/08/2020 02:11:05 devpinoyLogger successfully logout
+26/08/2020 02:11:07 devpinoyLogger HELP_FOOTER_IS_ACTIVETest Started
+26/08/2020 02:11:08 devpinoyLogger Verified Help Footer is Active
+26/08/2020 02:11:09 devpinoyLogger successfully logout
+26/08/2020 02:11:11 devpinoyLogger FEEDBACK_FOOTER_IS_ACTIVETest Started
+26/08/2020 02:11:12 devpinoyLogger Verified Feedback Footer is Active
+26/08/2020 02:11:13 devpinoyLogger successfully logout
+26/08/2020 02:11:15 devpinoyLogger ABOUT_FOOTER_IS_ACTIVETest Started
+26/08/2020 02:11:16 devpinoyLogger Verified About Footer is Active
+26/08/2020 02:11:17 devpinoyLogger successfully logout
+26/08/2020 02:11:20 devpinoyLogger Furniture clicked
+26/08/2020 02:11:20 devpinoyLogger PAGINATION_IS_ACTIVETest Started
+26/08/2020 02:11:20 devpinoyLogger Verified Pagination is displayed
+26/08/2020 02:11:21 devpinoyLogger successfully logout
+26/08/2020 02:11:21 devpinoyLogger Test is Completed
