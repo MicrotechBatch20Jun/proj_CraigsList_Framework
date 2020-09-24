@@ -18,7 +18,7 @@ public class Test_About_Footer extends TestBase {
 		Click(By.linkText(or.getProperty("ABOUT")));
 		driver.navigate().back();
 
-		log.debug("Verified About Footer is Active");
+		log.debug("Verified About Footer is Active.......... Tracked Project");
 
 	}// About_Footer_is_Active
 
